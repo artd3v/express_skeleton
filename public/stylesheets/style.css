@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 10px;
+  font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
+  border: 3px solid black;
+}
+
+a {
+  color: #00B7FF;
+}
